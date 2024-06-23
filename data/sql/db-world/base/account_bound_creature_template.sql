@@ -1,8 +1,8 @@
 SET
-@Entry    := 7500000,
+@Entry    := 190021,
 @Model    := 25609,
-@Name     := "Edward Findle",
-@Title    := "Heirloom Hoarder",
+@Name     := "爱德华·菲戴尔",
+@Title    := "传家宝收藏者",
 @Icon     := "Speak",
 @MinLevel := 25,
 @MaxLevel := 25,
